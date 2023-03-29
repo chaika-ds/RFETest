@@ -1,0 +1,46 @@
+{
+  "Fillers": [
+    {
+      "DeviceName": "Lamp",
+      "Measurements": {
+        "Voltage": "220",
+        "WorkingHours": "500"
+      }
+    },
+    {
+      "DeviceName": "Valve",
+      "Measurements": {
+        "Pressure": "1000",
+        "Temperature": "100"
+      }
+    },
+    {
+      "DeviceName": "Lamp",
+      "Measurements": {
+        "Voltage": "110",
+        "WorkingHours": "250"
+      }
+    },
+    {
+      "DeviceName": "Transmission",
+      "Measurements": {
+        "Temperature": "80",
+        "Frequency": "800"
+      }
+    },
+    {
+      "DeviceName": "Lamp",
+      "Measurements": {
+        "Voltage": "220",
+        "WorkingHours": "45"
+      }
+    },
+    {
+      "DeviceName": "Valve",
+      "Measurements": {
+        "Pressure": "1500",
+        "Temperature": "150"
+      }
+    }
+  ]
+}
